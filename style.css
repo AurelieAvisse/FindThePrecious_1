@@ -1,0 +1,149 @@
+nav {
+    background-color: black;
+}
+
+.fa.fa-navicon {
+    margin-top: 1vmin;
+    color: rgb(204, 204, 204);
+}
+
+.title {
+    color: rgb(204, 204, 204);
+    text-decoration: none;
+}
+
+.title:hover {
+    color: rgb(204, 204, 204);
+}
+
+.nav-link {
+    color: rgb(204, 204, 204);
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: black;
+    background-color: rgb(204, 204, 204);
+}
+
+.carousel-inner {
+    max-height: 60vh !important;
+}
+
+.img {
+    max-height: 60vh !important;
+}
+
+.fellows {
+    padding: 6vmin;
+    text-align: center;
+}
+
+h2 {
+    font-size: 4vmin;
+}
+
+span {
+    font-size: 3.5vmin;
+}
+
+.card {
+    padding: 1vmin;
+    width: 25vw;
+}
+
+.bg {
+    background-color: rgb(173, 173, 173);
+    border-radius: 3%;
+}
+
+.other_img {
+    opacity: 0.7;
+    border-radius: 3%;
+}
+
+.dead_img {
+    opacity: 0.2;
+    border-radius: 6%;
+}
+
+.dead {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15vmin;
+}
+
+.dead_text {
+    font-weight: bold;
+    font-size: 5vmin;
+}
+
+.reward {
+    display: flex;
+    justify-content: center;
+    opacity: 0;
+}
+
+.reward:hover {
+    opacity: 1;
+}
+
+.reward_text {
+    font-weight: bold;
+    font-size: 3.5vmin;
+    background-color: rgb(173, 173, 173);
+    color: white;
+    font-weight: bold;
+    height: 6vh;
+    padding: 1vmin;
+    border-radius: 3%;
+}
+
+.reward:hover {
+    opacity: 1;
+}
+
+.contact {
+    margin-top: 20vmin;
+    padding-top: 3vmin;
+    margin-left: 3vmin;
+    margin-right: 3vmin;
+    border-top: 1px solid black;
+}
+
+.send {
+    background-color: rgb(204, 204, 204);
+    width: 6vw;
+    border-radius: 0.8vmin;
+}
+
+.page-footer {
+    margin-top: 3vmin;
+    background-color: black;
+    padding: 3vmin;
+}
+
+.li {
+    list-style-type: none;
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(204, 204, 204);
+}
+
+.link:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.link_end {
+    text-decoration: none;
+    color: white;
+}
+
+.link_end:hover {
+    text-decoration: none;
+    color: white;
+}
